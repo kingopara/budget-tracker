@@ -8,6 +8,8 @@ I WANT to be able to track my withdrawals and deposits with or without a data/in
 
 SO THAT my account balance is accurate when I am traveling 
 
+[Link to deployed application on Heroku](https://budget-tracker-app-2021.herokuapp.com/)
+
 ## Table of content
 * [Description](#description)
 * [Project Requirements](#projectrequirements)
@@ -17,6 +19,9 @@ SO THAT my account balance is accurate when I am traveling
 * [License](#license)
 * [Badges](#Badges)
 * [Contributing](#contributing)
+
+## Preview
+![Preview](assets/images/budget-tracker.png)
 
 ## Project Requirements
 
@@ -31,7 +36,13 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Installation
 
+Clone the application onto your system and run `npm install` to install the packages.
+
+Also, At the top right of the browser tab is an option to download the application unto your system as a PWA.
+
 ## Usage 
+
+From the command line, at the root of the application folder, run `npm start` to start the server and then navigate to `http://localhost:3001` in your browser to work with the application.
 
 ## Credit
 This app was made with love and hardwork by Praise Opara
