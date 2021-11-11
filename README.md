@@ -36,13 +36,15 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Installation
 
-Clone the application onto your system and run `npm install` to install the packages.
+Clone the application onto your system from `https://github.com/kingopara/budget-tracker`
+
+Run `npm install` to install the packages.
 
 Also, At the top right of the browser tab is an option to download the application unto your system as a PWA.
 
 ## Usage 
 
-From the command line, at the root of the application folder, run `npm start` to start the server and then navigate to `http://localhost:3001` in your browser to work with the application.
+From the command line, at the root of the application folder, run `npm start` to start the server and then navigate to `http://localhost:3001` in your browser to work with the application. https://github.com/kingopara/budget-tracker
 
 ## Credit
 This app was made with love and hardwork by Praise Opara
